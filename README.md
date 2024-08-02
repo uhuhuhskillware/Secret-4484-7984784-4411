@@ -1,3 +1,5 @@
+UPDATING SkillWare GENERATOR -<->-
+
 SkillWare Release 1.0 is the correct version
 
 NETFLIX COOKIES GENERATOR BUILT ON SKILLWARE
