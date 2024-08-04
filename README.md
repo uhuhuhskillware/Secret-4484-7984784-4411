@@ -1,4 +1,4 @@
-SkillWare Release 1.1
+UPDATING
 
 SkillWare Release 1.1 is the correct version
 
